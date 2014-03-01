@@ -1,4 +1,4 @@
-[![cakeACP2](http://radeff.net/pics/acp/potiron.gif)]
+[http://radeff.net/pics/acp/potiron.gif][cakeACP2]
 
 Software for administration of a contractual of a contract farming organisation
 Logiciel de gestion pour une coopérative d'agriculture contractuelle de proximité (ACP)
