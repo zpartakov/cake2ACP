@@ -1,4 +1,7 @@
-[![cakeACP2](http://radeff.net/pics/acp/potiron.gif)]
+CakeACP2
+=======
+
+[![cakeACP2](http://radeff.net/pics/acp/potiron.gif)](cakeACP2)
 
 
 Software for administration of a contractual of a contract farming organisation
